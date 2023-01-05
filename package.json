@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ndemia/weather#readme",
   "dependencies": {
+    "node-fetch": "^2.6.7",
     "sass": "^1.57.1"
   }
 }
